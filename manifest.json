@@ -1,0 +1,10 @@
+{
+  "id": "aigifmaker",
+  "name": "AI GIF Maker",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Turn text into animated GIFs with AI GIF Maker, saved to your vault and embedded at the cursor.",
+  "author": "AI GIF Maker",
+  "authorUrl": "https://aigifmaker.ai",
+  "isDesktopOnly": false
+}
